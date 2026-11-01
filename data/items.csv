@@ -1,0 +1,25 @@
+item_id,item_name,category,supplier_id,unit_cost,qty_on_hand,reorder_point,supplier_name
+1,Copy Paper (case),Office,1,32.5,42,40,Pacific Office Supply
+2,Ballpoint Pens (box),Office,1,8.99,15,60,Pacific Office Supply
+3,Sticky Notes (12-pack),Office,1,11.49,88,50,Pacific Office Supply
+4,Toner Cartridge TN-760,Office,2,84.0,6,12,GreatLakes Wholesale
+5,Desk Organizer,Office,4,19.99,34,20,Sunbelt Distribution
+6,USB-C Cable 6ft,Electronics Accessories,3,9.99,120,80,Metro Parts Co
+7,Wireless Mouse,Electronics Accessories,3,24.99,18,25,Metro Parts Co
+8,HDMI Cable 10ft,Electronics Accessories,5,14.99,9,30,QuickShip Logistics
+9,Laptop Stand,Electronics Accessories,5,42.99,22,15,QuickShip Logistics
+10,Surge Protector,Electronics Accessories,2,21.5,47,30,GreatLakes Wholesale
+11,Office Chair,Furniture,4,189.99,4,6,Sunbelt Distribution
+12,Standing Desk Frame,Furniture,4,349.0,3,4,Sunbelt Distribution
+13,Bookshelf 5-tier,Furniture,2,129.99,7,5,GreatLakes Wholesale
+14,Filing Cabinet,Furniture,1,159.0,5,8,Pacific Office Supply
+15,Disinfecting Wipes ( tub),Cleaning,5,13.75,26,45,QuickShip Logistics
+16,Hand Soap Refill,Cleaning,5,10.25,64,40,QuickShip Logistics
+17,Paper Towels (12-roll),Cleaning,2,16.99,31,35,GreatLakes Wholesale
+18,Trash Bags (box),Cleaning,1,12.49,73,50,Pacific Office Supply
+19,Whiteboard Markers (8-pack),Office,3,9.49,11,30,Metro Parts Co
+20,Binder Clips (assorted),Office,1,6.29,140,60,Pacific Office Supply
+21,Monitor Arm,Electronics Accessories,3,59.99,13,10,Metro Parts Co
+22,Keyboard Wrist Rest,Electronics Accessories,5,15.99,28,20,QuickShip Logistics
+23,LED Desk Lamp,Furniture,2,44.99,16,12,GreatLakes Wholesale
+24,Storage Boxes (6-pack),Office,4,27.99,19,25,Sunbelt Distribution
