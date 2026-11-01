@@ -1,5 +1,7 @@
 # Inventory & Supplier Scorecard (SQL)
 
+> **Key finding:** 45.8% of items sit at or below their reorder point, and slow-moving stock ties up 26.5% of total inventory value. Full write-up: [ANALYSIS.md](ANALYSIS.md).
+
 Inventory and supplier checks in SQL: what is about to run out, which
 suppliers deliver on time, and which stock has stopped moving — the three
 lists an operations team reviews before placing orders.
@@ -53,3 +55,8 @@ never sold). Stock value tied up = `qty_on_hand × unit_cost`.
 
 - `README.md` — this file
 - `queries.sql` — the three scorecard queries, commented section by section
+- `ANALYSIS.md` — business analysis run on the sample data: findings with figures and recommendations
+- `data/items.csv` — generated sample items table (24 rows)
+- `data/suppliers.csv` — generated sample suppliers table (5 rows)
+- `data/deliveries.csv` — generated sample deliveries table (77 rows)
+- `data/sales.csv` — generated sample sales table (472 rows)
